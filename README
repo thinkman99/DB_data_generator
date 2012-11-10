@@ -1,0 +1,20 @@
+Random data generator for MySQL.
+
+Work whith follow data type:
+
+CHAR, VARCHAR, BINARY, VARBINARY, TINYBLOB, BLOB, MEDIUMBLOB, LONGBLOB, TINYTEXT, TEXT, MEDIUMTEXT, LONGTEXT, 
+TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT
+DECIMAL, FLOAT, DOUBLE
+BIT
+DATE, DATETIME, TIMESTAMP, TIME, YEAR
+
+Required:
+
+php5-mysqli
+php5-bcmath
+
+Make executable main.php.
+>chmod a+x main.php
+
+Run 
+>main.php 
