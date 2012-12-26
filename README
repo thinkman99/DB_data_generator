@@ -1,6 +1,6 @@
 Random data generator for MySQL.
 
-Work whith follow data type:
+Works with the following types of data:
 
 CHAR, VARCHAR, BINARY, VARBINARY, TINYBLOB, BLOB, MEDIUMBLOB, LONGBLOB, TINYTEXT, TEXT, MEDIUMTEXT, LONGTEXT, 
 TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT
